@@ -1,16 +1,16 @@
 import React from 'react';
-import './Homepage.css';
-
+import '../assets/styles/HomePage.css';
+import phone from '../images/phone.png'; 
 const HomePage = () => {
   return (
     <div className="main-content">
       <div className="content-section">
         <div className="text-content">
-          <h1>Sample content</h1>
-          <p>Sample content</p>
+          <h1>Dummy content</h1>
+          <p>Dummy content</p>
         </div>
         <div className="image-content">
-          <img src="phone-image.png" alt="Mobile app interface" className="phone-image" />
+          <img src={phone} alt="phone" className="phone-image" />
         </div>
       </div>
     </div>
