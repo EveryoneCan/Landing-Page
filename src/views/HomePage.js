@@ -5,13 +5,7 @@ const HomePage = () => {
   return (
     <div className="main-content">
       <div className="content-section">
-        <div className="text-content">
-          <h1>Dummy content</h1>
-          <p>Dummy content</p>
-        </div>
-        <div className="image-content">
-          <img src={phone} alt="phone" className="phone-image" />
-        </div>
+        <iframe src="https://hologo.world/embed/e0a0e983-2d05-4409-914b-0ab322d61ee2" height="100%" width="100%"></iframe>
       </div>
     </div>
   );
