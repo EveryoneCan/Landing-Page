@@ -1,16 +1,16 @@
-@font-face {
+/* @font-face {
   font-family: 'TTFirsNeue';
   src: url('../../assets/fonts/TT Firs Neue Trial Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-}
+} */
 
 .main-content {
     text-align: center;
     padding: 50px 20px;
     max-width: 1200px;
     margin: 0 auto;
-    font-family: 'TT Firs Neue', sans-serif;
+    /* font-family: 'TT Firs Neue', sans-serif; */
   }
   
   .content-section {
