@@ -40,12 +40,12 @@
 }
 
 .nav-links a:hover {
-    color: #0f9d58; 
+    color: #f38e00; 
 }
 
 .sign-in-btn {
     padding: 10px 20px;
-    background-color: #54ea54; 
+    background-color: #f38e00; 
     border: none;
     color: black;
     cursor: pointer;
@@ -55,5 +55,5 @@
 
 .sign-in-btn:hover {
     background-color: white;
-    color: #0f9d58;
+    color: #f38e00; 
 }
