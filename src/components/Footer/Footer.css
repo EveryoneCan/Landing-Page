@@ -1,4 +1,11 @@
 /* Footer.css */
+@font-face {
+    font-family: 'TTFirsNeue';
+    src: url('../../assets/fonts/TT Firs Neue Trial Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
 .footer {
     text-align: center;
     padding: 20px;

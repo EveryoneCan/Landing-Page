@@ -1,7 +1,14 @@
+@font-face {
+    font-family: 'TTFirsNeue';
+    src: url('../../assets/fonts/TT Firs Neue Trial Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
 .navbar {
     background-color: #ffffff; 
     color: black;
     font-family: 'TT Firs Neue', sans-serif;
+    font-weight: bold;
 }
 
 .navbar-container {
