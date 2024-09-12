@@ -1,6 +1,6 @@
 import React from 'react';
 import './Navbar.css'; 
-import hologo from '../../images/hologo.jpeg'; 
+import hologo from '../../assets/images/hologo.jpeg'; 
 const Navbar = () => {
     return (
         <nav className="navbar">

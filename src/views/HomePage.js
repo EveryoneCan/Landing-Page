@@ -1,6 +1,6 @@
 import React from 'react';
 import '../assets/styles/HomePage.css';
-import phone from '../images/phone.png'; 
+import phone from '../assets/images/phone.png'; 
 const HomePage = () => {
   return (
     <div className="main-content">
